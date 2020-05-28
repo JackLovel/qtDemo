@@ -1,0 +1,1 @@
+- 桌面取色器(抄的)，[原地址](http://www.qtcn.org/bbs/read.php?tid-46711.html)
