@@ -1,0 +1,4 @@
+/home/gog/qtPro/qtDemo/cmake例子/HelloCMake/build/CMakeFiles/rebuild_cache.dir
+/home/gog/qtPro/qtDemo/cmake例子/HelloCMake/build/CMakeFiles/cmark_demo.dir
+/home/gog/qtPro/qtDemo/cmake例子/HelloCMake/build/CMakeFiles/edit_cache.dir
+/home/gog/qtPro/qtDemo/cmake例子/HelloCMake/build/CMakeFiles/cmark_demo_autogen.dir
